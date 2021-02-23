@@ -6,8 +6,8 @@
 
   </div>
 
-Hi, I'm Shin Kim, an enthusiastic self-taught Full Stack developer and a software engineer from korea.<br>My enthusiasm for
-software lies with dreaming up ideas and making them come true with effort.<br>I take great care in architecture, and code
+Hi, I'm Shin Kim, an enthusiastic self-taught Full Stack developer and a software engineer from korea. My enthusiasm for
+software lies with dreaming up ideas and making them come true with effort. I take great care in architecture, and code
 quality of the things I build.
 
 #### Programming Languages
