@@ -10,6 +10,9 @@ Hi, I'm Shin Kim, an enthusiastic self-taught Full Stack developer and a softwar
 software lies with dreaming up ideas and making them come true with effort. I take great care in architecture, and code
 quality of the things I build.
 
+- Android Developer
+- To be Full Stack Developer
+
 #### Programming Languages
 
 <code><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></code>
